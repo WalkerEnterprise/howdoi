@@ -204,3 +204,24 @@ You can include the contents of a file
 ```Python
 {!../howdoi/__init__.py!}
 ```
+
+## API Tracking
+
+We have a standardized tracking list for APIs used in the project. Please refer to the `API_TRACKING.md` file for the list of APIs and their details.
+
+### Updating the API Tracking List
+
+To update the `API_TRACKING.md` file, follow these steps:
+
+1. Open the `API_TRACKING.md` file located in the root directory of the repository.
+2. Add or update the relevant information in the table, including API Name, Version, Endpoint, Description, and Status.
+3. Save the changes and commit them to the repository.
+
+### Review Process
+
+To ensure the accuracy and completeness of the information in the `API_TRACKING.md` file, follow these steps:
+
+1. After updating the `API_TRACKING.md` file, create a pull request with the changes.
+2. Request a review from at least one team member or stakeholder.
+3. Address any feedback or corrections provided during the review process.
+4. Once the review is complete and approved, merge the pull request into the main branch.
